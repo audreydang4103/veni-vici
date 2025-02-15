@@ -1,10 +1,4 @@
-# Web Development Project 4 - *Veni Vici!*
-
-Submitted by: **Audrey Dang**
-
 This web app: **This app allows users to discover random cats through images and breed information fetched from The Cat API. Users can ban specific cat breeds or origins to customize future discoveries and see a history of all previously viewed cats. The app offers a fun, interactive experience to explore different cat breeds while allowing users to control what they see next.**
-
-Time spent: **5** hours spent in total
 
 ## Required Features
 
